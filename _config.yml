@@ -2,16 +2,16 @@
 #title: Globien Interlingu
 title: Leeward Tan
 #SEOTitle: Globien - Makes Communication Easier
-SEOTitle: Globien - Makes Communication Easier
+SEOTitle: LeewardTan Coding Journey
 #header-img: img/home-bg-bluestars.jpg
 header-img: img/home-bg-bluestars.jpgw
 #email: klovien@gmail.com
 email: leewardtanforwork@gmail.com
 description: "Easy to learn, no more hard work to recite vocabulary."
 keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
-url: "https://globien.github.io"          # your host, for absolute URL
+url: "https://LEEWARDCODER.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
+github_repo: "https://github.com/LEEWARDCODER/LEEWARDCODER.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -23,9 +23,9 @@ sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:       henry-jiang-78
-github_username:      globien
-facebook_username:    henry.h.jiang.5
+zhihu_username:       leewardtan
+github_username:      leewardtan
+facebook_username:    leewardtan
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
 
