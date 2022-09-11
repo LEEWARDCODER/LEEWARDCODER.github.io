@@ -1,8 +1,12 @@
 # Site settings
-title: Globien Interlingu
+#title: Globien Interlingu
+title: Leeward Tan
+#SEOTitle: Globien - Makes Communication Easier
 SEOTitle: Globien - Makes Communication Easier
-header-img: img/home-bg-bluestars.jpg
-email: klovien@gmail.com
+#header-img: img/home-bg-bluestars.jpg
+header-img: img/home-bg-bluestars.jpgw
+#email: klovien@gmail.com
+email: leewardtanforwork@gmail.com
 description: "Easy to learn, no more hard work to recite vocabulary."
 keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
 url: "https://globien.github.io"          # your host, for absolute URL
