@@ -7,11 +7,11 @@ SEOTitle: LeewardTan Coding Journey
 header-img: img/home-bg-bluestars.jpgw
 #email: klovien@gmail.com
 email: leewardtanforwork@gmail.com
-description: "Easy to learn, no more hard work to recite vocabulary."
-keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
+description: "description"
+keyword: "keyword "
 url: "https://leewardcoder.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/LEEWARDCODER/LEEWARDCODER.github.io" # you code repository
+github_repo: "https://github.com/LEEWARDCODER" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -22,12 +22,12 @@ sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:       leewardtan
-github_username:      leewardtan
-facebook_username:    leewardtan
-# jianshu_username:   e71990ada2fd
-# twitter_username:   qiubaiying
+#weibo_username:     leewardtan
+zhihu_username: ni-die-die-die
+github_username: LEEWARDCODER
+#facebook_username:    leewardtan
+jianshu_username: beb5d812d5c8
+# twitter_username:   leewardtan
 
 
 
@@ -36,14 +36,14 @@ facebook_username:    leewardtan
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: [ "less","node_modules","Gruntfile.js","package.json","README.md" ]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+gems: [ jekyll-paginate ]
 
 
 
@@ -68,7 +68,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 6a11cab9f46fe57e56a1                            #生成的clientID
   clientSecret: 27ac9ec88d1ecd4c819f7423c95b4ca66e54156a    #生成的clientSecret
-  repo:  globien.github.io    #仓库名称
+  repo: globien.github.io    #仓库名称
   owner: globien    #github用户名
   admin: globien
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -102,14 +102,14 @@ service-worker: true
 
 # 友情链接，请尽量不要删除
 friends: [
-    {
-        title: "Globien Interlingu",
-        href: "https://globien.github.io"
-    },{
-        title: "Globien Community",
-        href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
-    },{
-        title: "Zhihu AIL Column",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
-    }
+  {
+    title: "Globien Interlingu",
+    href: "https://globien.github.io"
+  },{
+    title: "Globien Community",
+    href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
+  },{
+    title: "Zhihu AIL Column",
+    href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+  }
 ]
