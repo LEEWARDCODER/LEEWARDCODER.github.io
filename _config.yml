@@ -16,7 +16,7 @@ github_repo: "https://github.com/LEEWARDCODER" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Leeward Personal Blog"
-sidebar-avatar: /img/leeward.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: ./img/leeward.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -66,11 +66,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 6a11cab9f46fe57e56a1                            #生成的clientID
-  clientSecret: 27ac9ec88d1ecd4c819f7423c95b4ca66e54156a    #生成的clientSecret
-  repo: globien.github.io    #仓库名称
-  owner: globien    #github用户名
-  admin: globien
+  clientID: f5377e02056d18c09638                            #生成的clientID
+  clientSecret: cffbe78a0841fa5762febd72206f4b3394e52f84     #生成的clientSecret
+  repo: LEEWARDCODER..github.io    #仓库名称
+  owner: LEEWARDCODER  #github用户名
+  admin: LEEWARDCODER
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
