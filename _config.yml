@@ -7,8 +7,8 @@ SEOTitle: LeewardTan Coding Journey
 header-img: img/home-bg-bluestars.jpgw
 #email: klovien@gmail.com
 email: leewardtanforwork@gmail.com
-description: "description"
-keyword: "keyword "
+description: "leeward,Ireland,code,programmer,blog"
+keyword: "leeward,Ireland,code,programmer,blog"
 url: "https://leewardcoder.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/LEEWARDCODER" # you code repository
