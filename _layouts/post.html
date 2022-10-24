@@ -10,7 +10,7 @@ layout: default
 <style>
     header.intro-header{
         position: relative;
-        background-image: url("{{site.baseurl}}")
+        background-image: url("img/post-bg-android.jpg")
     }
 
     {% if page.header-mask %}
@@ -18,7 +18,7 @@ layout: default
         width: 100%;
         height: 100%;
         position: absolute;
-        background: rgba(0,0,0, {{ page.header-mask }});
+        background: rgba(0,0,0);
     }
     {% endif %}
 </style>
@@ -28,11 +28,11 @@ layout: default
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
-                    <div class="tags">
-                        {% for tag in page.tags %}
-                        <a class="tag" href="{{ site.baseurl }}/2-tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
-                        {% endfor %}
-                    </div>
+<!--                    <div class="tags">-->
+<!--                        {% for tag in page.tags %}-->
+<!--                        <a class="tag" href="{{ site.baseurl }}/2-tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>-->
+<!--                        {% endfor %}-->
+<!--                    </div>-->
                     <h1>{{ page.title }}</h1>
                     {% comment %}
                         always create a h2 for keeping the margin , Hux
