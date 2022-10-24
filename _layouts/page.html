@@ -4,7 +4,7 @@ layout: default
 ---
 
 <!-- Page Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+<header class="intro-header" style="background-image: url('img/404-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
@@ -192,15 +192,15 @@ layout: default
                     </div>
                 </section>
                 <!-- Friends Blog -->
-                {% if site.friends %}
-                <hr>
-                <h5>MORE SITES</h5>
-                <ul class="list-inline">
-                    {% for friend in site.friends %}
-                        <li><a href="{{friend.href}}">{{friend.title}}</a></li>
-                    {% endfor %}
-                </ul>
-                {% endif %}
+<!--                {% if site.friends %}-->
+<!--                <hr>-->
+<!--                <h5>MORE SITES</h5>-->
+<!--                <ul class="list-inline">-->
+<!--                    {% for friend in site.friends %}-->
+<!--                        <li><a href="{{friend.href}}">{{friend.title}}</a></li>-->
+<!--                    {% endfor %}-->
+<!--                </ul>-->
+<!--                {% endif %}-->
     		</div>
         {% endif %}
 	</div>
