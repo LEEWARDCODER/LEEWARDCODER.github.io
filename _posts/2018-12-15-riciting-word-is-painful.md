@@ -6,8 +6,7 @@ date:       2018-12-15
 author:     Henri Jambo
 header-img: img/post-bg-recitewords.jpg
 catalog: false
-tags:
-    - 随笔杂谈
+
 ---
 
 #### 一

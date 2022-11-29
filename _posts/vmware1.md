@@ -9,11 +9,9 @@ catalog: false
 
 ---
 
-#### 
 
 下一篇文章讲述了virtualenvwrapper, virtualenv是virtualenvwrapper的基础.
 
-#### 
 
 virtualenv建立一个独立的依赖库，假如你在电脑（全局环境）安装的是Python  2.7，但是你接到的项目必须使用Python 3.7, 但你并不希望升级你电脑（全局环境）上安装的Python版本从Python  2.7->Python 3.7，那么你可以通过virtualenv为你的项目指定一个虚拟环境，在该虚拟环境中选择Python 3.7, 从而与全局环境的Python  2.7保持隔离。虚拟环境就有点像docker,不同的虚拟环境相当于docker不同的容器.
 
